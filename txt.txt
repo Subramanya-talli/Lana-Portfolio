@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="resume-container">
+    <!-- Left Sidebar -->
+    <div class="sidebar">
+      <div class="profile-picture">
+        <img src="https://via.placeholder.com/150" alt="Profile Picture">
+      </div>
+      <div class="contact">
+        <h2>Contact</h2>
+        <p><strong>Phone:</strong> +123-456-7890</p>
+        <p><strong>Email:</strong> hello@reallygreatsite.com</p>
+        <p><strong>Website:</strong> www.reallygreatsite.com</p>
+        <p><strong>Address:</strong> 123 Anywhere St., Any City, ST 12345</p>
+      </div>
+      <div class="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Design</strong></p>
+        <p>Wardiere University (2006 - 2008)</p>
+      </div>
+      <div class="expertise">
+        <h2>Expertise</h2>
+        <p>Digital Marketing</p>
+        <p>Branding</p>
+        <p>Copywriting</p>
+        <p>SEO</p>
+      </div>
+      <div class="language">
+        <h2>Language</h2>
+        <p>English</p>
+        <p>French</p>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+      <div class="profile">
+        <h1>Olivia Wilson</h1>
+        <h3>Graphics Designer</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+      <div class="work-experience">
+        <h2>Work Experience</h2>
+        <div class="experience-item">
+          <h3>Ginyard International Co.</h3>
+          <p><strong>Product Design Manager</strong> (2020 - 2023)</p>
+          <ul>
+            <li>Working with the wider development team.</li>
+            <li>Manage website design, content, and SEO Marketing.</li>
+            <li>Branding and Logo Design.</li>
+          </ul>
+        </div>
+        <div class="experience-item">
+          <h3>Arowwai Industries</h3>
+          <p><strong>Product Design Manager</strong> (2019 - 2020)</p>
+          <ul>
+            <li>Working with the wider development team.</li>
+            <li>Manage website design, content, and SEO Marketing.</li>
+            <li>Branding and Logo Design.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="references">
+        <h2>References</h2>
+        <p><strong>Bailey Dupont</strong></p>
+        <p>Wardiere Inc. / CEO</p>
+        <p><strong>Phone:</strong> 123-456-7890</p>
+        <p><strong>Email:</strong> hello@reallygreatsite.com</p>
+        <p><strong>Harumi Kobayashi</strong></p>
+        <p>Wardiere Inc. / CEO</p>
+        <p><strong>Phone:</strong> 123-456-7890</p>
+        <p><strong>Email:</strong> hello@reallygreatsite.com</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
